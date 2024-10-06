@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is a **Functional Electrical Stimulation (FES) coaching application** designed for **spinal cord injury (SCI) patients** to aid them in rowing exercises using an FES-rowing ergometer. The app helps users by automatically switching electrical stimulation between **hamstring** and **quadriceps** muscle groups, improving their ability to engage in physical activity and rehabilitation exercises.
+This project is a **Functional Electrical Stimulation (FES) coaching application** designed for **spinal cord injury (SCI) patients** to aid them in rowing exercises using an FES-rowing ergometer. The app helps users by automatically switching electrical stimulation between **hamstring** and **quadriceps** muscle groups, improving their ability to engage in physical activity and rehabilitation exercises. May 2024 - August 2024 for University Health Network (UHN) and Motion & Adaptation Science Laboratory (MASL).
 
 ## Features
 
